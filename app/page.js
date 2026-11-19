@@ -10,7 +10,7 @@ export default function Home() {
         <div className="hero-texto">
           <p className="hero-sub">{perfil.titulo}</p>
           <h1>
-            Oi, eu sou a <span className="nome">Isabella.</span>
+           <span className="nome">Isabella Martins.</span>
           </h1>
           <p className="hero-frase">{perfil.frase}</p>
           <div className="botoes">
